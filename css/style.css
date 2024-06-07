@@ -1,14 +1,14 @@
 /* Created by: Niko Shivkumar
-* Created on: may 29th 2024
+* Created on: june 7th 2024
 * This file contains the CSS for index.html
 */
 
 html {
-  background-color: #789778;
+  background-color: #bfb99b;
 }
 
 h1 {
-  background-color: lightgreen;
+  background-color: #eede91;
   padding: 25px;
   text-align: center;
   border: 5px solid black;
@@ -23,12 +23,12 @@ h3 {
   margin-left: 37%;
   margin-right: 37%;
   font: 12pt Arial;
-  background-color: #6ad26a;
+  background-color: #dddb92;
 }
 
 p {
   text-align: center;
-  background-color: #aa6e8c;
+  background-color: #cdc07e;
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
@@ -38,7 +38,7 @@ p {
 
 #user-info {
   text-align: center;
-  background-color: #fd72b8;
+  background-color: #fda372;
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
