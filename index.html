@@ -24,20 +24,22 @@
   </head>
 
   <body>
+    <!-- title and subheader -->
     <h1>Number Addition</h1>
-    <h3>Enter a minimum and a maximum, and an integer.</h3>
-    <!-- form for user input for min and max -->
+    <h3>Enter a minimum, a maximum, and an integer.</h3>
+    <!-- form for user input of the min, max, and integer -->
     <form action="javascript: numberAddition()">
       <p>
-        <label for="userMin">Enter a number</label>
+        <label for="userMin">Enter a min:</label>
         <input type="number" id="userMin" step="1" placeholder="Enter a Minimum"><br><br>
-        <label for="userMax">Enter a number</label>
+        <label for="userMax">Enter a max:</label>
         <input type="number" id="userMax" step="1" placeholder="Enter a Maximum"><br><br>
-        <label for="userInt">Enter a number</label>
+        <label for="userInt">Enter a number:</label>
         <input type="number" id="userInt" step="1" placeholder="Enter an Integer"><br><br>
         <input type="submit">
       </p>
     </form>
+    <!-- display area -->
     <div id="user-info">
       
     </div>

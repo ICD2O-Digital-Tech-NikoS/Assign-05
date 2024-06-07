@@ -20,8 +20,8 @@ h3 {
   padding: 25px;
   text-align: center;
   border: 1px solid black;
-  margin-left: 600px;
-  margin-right: 600px;
+  margin-left: 37%;
+  margin-right: 37%;
   font: 12pt Arial;
   background-color: #6ad26a;
 }
@@ -32,8 +32,8 @@ p {
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
-  margin-left: 550px;
-  margin-right: 550px;
+  margin-left: 40.5%;
+  margin-right: 40.5%;
 }
 
 #user-info {
@@ -42,6 +42,6 @@ p {
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
-  margin-left: 600px;
-  margin-right: 600px;
+  margin-left: 41.5%;
+  margin-right: 41.5%;
 }
