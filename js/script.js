@@ -7,9 +7,9 @@
 // function for number addition
 function numberAddition() {
 
-  // get user input for min
-  let userMax = Number(document.getElementById("userMax").value);
   // get user input for max
+  let userMax = Number(document.getElementById("userMax").value);
+  // get user input for min
   let userMin = Number(document.getElementById("userMin").value);
   // gets users number
   let userInt = Number(document.getElementById("userInt").value);
